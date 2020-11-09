@@ -1,4 +1,4 @@
-# HW3-Common-Questions
+# HW3 Common Questions
 ## Summary
 All the questions are covered by lecture slides.
 ## Q1
