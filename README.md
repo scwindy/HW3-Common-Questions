@@ -4,7 +4,7 @@ All the questions are covered by lecture slides.
 ## Q1
 Each sub question has only one correct choice.
 ### Q1.4 What is the meaning of this question?
-For Q1.4 (D) "Bounded waiting implies no deadlock", it basically means "if there is bounded waiting, then there will be no deadlock". "IMPLY" has the similar meaning in Discrete mathematics. You can check each statement is true or not, and then pick the correct choice. If you think this question has no correct choice, you can also write down the reason
+For Q1.4 (D) "Bounded waiting implies no deadlock", it basically means "if there is bounded waiting, then there will be no deadlock". "IMPLY" has the similar meaning in Discrete mathematics. You can check each statement is true or not, and then pick the correct choice. If you think this question has no correct choice, you can also write down the reason.
 ### Q1.7 Does lock and unlock mean literally calling pthread_mutex_lock(&mutex) and pthread_mutex_unlock(&mutex) in the code segment?
 Yes, I think you can think so.
 
